@@ -612,6 +612,7 @@ def menu():
             print("Успешно изменено")
         elif (a == 6):
             #try:
+                continue
                 print("Введите количество частот, количество отрезков")
                 n = int(input())
                 count = int(input())
